@@ -1,6 +1,7 @@
 用户名,ID,问题,问题链接,评论,时间,回答链接
 "Alex Huang","alex-huang-37","C 语言的「void main」是怎么一代代传下来的？","https://www.zhihu.com/question/358133724","「void main」才是正解，「int main」反而显得扭捏作态。  比如Linux平台，虽然可以返回一个超大整数或负数，但操作系统能够接受的程序退出状态码只有0至255，接收到的整数是程序里写的那个取模的结果。直白一致的写法应该是「unsigned char main」，但这么写连编译器都会报错。「void main」是既坦诚又能被编译器接受的唯一写法。","2023-08-31 23:11","https://www.zhihu.com/answer/3191718624"
 "奥德彪","da-di-64-34","为什么现在吹Rust的人这么多？","https://www.zhihu.com/question/624623198","rall / RALL管理的资源不仅仅是内存，还有其它。 / RALL管理的资源不仅仅是内存，还有其它。","2023-10-31 00:09","https://www.zhihu.com/question/624623198/answer/3270762508"
+"忘记时间","gladtoknowu","","","","",""
 "君子由言","jun-zi-you-yan","我证明了丌是变量，你相信吗？","https://www.zhihu.com/question/625914375","设圆的半径为n，则圆的面积S＝丌*n^2，当n→0时，圆的面积为0。  1、设等边三角形的边长为n，则高为sqrt(n^2一n^2/4)＝sqrt（3）n／2，面积S＝sqrt（3）n^2/4。当n→0时，三角形的面积为0。  所以，n→0时圆的面积等于三角形的面积，  即S＝丌*n^2＝sqrt（3）n^2/4，  又因为n→0时n≠0，上式两边同除以n^2，  所以，丌＝sqrt（3）/4。  2、设正方形的边长为n，面积为S＝n^2，当n→0时，正方形的面积为0。  所以，n→0时圆的面积等于正方形的面积，即S＝丌*n^2＝n^2。  又因为n→0时n≠0，上式两边同除以n^2，  所以，丌＝1。  我知道这是不可能的，但错在哪了？","2023-10-13 09:49:53",""
 "绿帽蝙蝠侠","liu-zhe-qi-47-70","单片机为什么一直用C语言，不用其他编程语言？","https://www.zhihu.com/question/623514371","怎么可能有Java。。。Java是运行在虚拟机上的，哪个单片机能装虚拟机？ / 我的问题是，什么单片机能装JDK和JRE？  没有JDK和JRE，Java根本不能运行。","2023-11-01 15","https://www.zhihu.com/question/623514371/answer/3225418673"
 "oQ5AdciP4F4C9c","oq5adcip4f4c9c","MATLAB在逐渐被Python淘汰吗？","https://www.zhihu.com/question/367881424","试试3-2，python输出多少。如果这都算不对，怎么可能替代matlab。    不好意思。再测试这个吧：1.2-1.1","2023-08-30 10:55","https://www.zhihu.com/answer/3188550165"
